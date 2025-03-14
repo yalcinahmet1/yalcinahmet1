@@ -3,14 +3,19 @@
 <!--
 **yalcinahmet1/yalcinahmet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Full Stack Developement
+- 🌱 I’m currently learning Big Data/Apache Spark
+- 👯 I cooperate with METU Blockchain Community
+- 💻 Technologies I actively work with:
+  - 🔹 Java, Python, JavaScript, TypeScript
+  - 🔹 React,React-Native, Next.js, Node.js
+  - 🔹 MySQL, MongoDB
+
+- 📚 My interests:
+  - 📈 Machine Learning (stock price prediction models)
+  - 🚀 Frontend design and development
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinahmet1&layout=compact&theme=tokyonight)
+
 -->
